@@ -1567,7 +1567,8 @@ fieldset {
       display: grid;
       grid-template-columns: 2fr 1fr 0.5fr 0.5fr;
       border-bottom: 1px solid #EAEAEA;
-      grid-column-start: 2; }
+      grid-column-start: 2;
+      color: #1B1C21; }
       .services-large-cards-item__services {
         padding: 24px 0; }
       .services-large-cards-item__price {
